@@ -1,0 +1,51 @@
+---
+title: "CV"
+
+jobtitle: "MPS student"
+address: "Ithaca, NY"
+fontawesome: yes
+
+email:"ac2865@cornell.edu"
+
+phone: "+3098385353"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: black
+---
+
+# Employment
+
+**Imagine Scholar and HALLI Access Network 
+
+This is a typo
+
+
+Development Intern (remote) \ August 2020 - December 2020 
+
+
+**Abaarso School of Science and Technology 
+
+Faculty of Humanities (Hargeisa,Somaliland) \ August 2019 - July 2020
+
+A typo, another one
+
+Researcher (Dublin) \hfill 1899-1935
+
+# Education
+
+*Cornell University*, MPS Global Development \hfill 2021
+
+*Illinois Wesleyan University*, B.A. Political Science  \hfill 1899
+
+Third typo 
+
+fourth typo 
+
+
+The final typo 
